@@ -17,11 +17,8 @@ li a {
 #header2-settings {
     color:  #4aaaa5;
     text-align: left;
-    padding: 10px 0 10px 5px;
+    padding: 10px 0 10px 10px;
     border-bottom: 1.5px inset lightgray;
-    background: white;
-    margin-left: 5px;
-    margin-right: 5px;
 }
 
 .content-section {
@@ -29,7 +26,7 @@ li a {
     height: auto;
     background: whitesmoke;
     border-top: 1.5px outset lightgray;
-    min-height: 900px;
+    min-height: 1000px;
     /* Negative indent footer by its height */
     margin: 0 auto -60px;
     /* Pad bottom by footer height */

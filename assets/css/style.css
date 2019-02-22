@@ -17,11 +17,8 @@ li a {
 #header2-settings {
     color:  #4aaaa5;
     text-align: left;
-    padding: 10px 0 10px 5px;
+    padding: 10px 0 10px 10px;
     border-bottom: 1.5px inset lightgray;
-    background: white;
-    margin-left: 15px;
-    margin-right: 15px;
 }
 
 #img-setting {
