@@ -62,3 +62,10 @@ li a:active {
     font-size: 150%;
     color: orange;
 }
+
+i {
+    color: #4aaaa5;
+    margin: 150px auto 150px auto;
+    display: block;
+    margin-right: 49px;
+}
