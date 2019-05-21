@@ -30,7 +30,7 @@ li a {
     /* Negative indent footer by its height */
     margin: 0 auto -60px;
     /* Pad bottom by footer height */
-    padding: 25px 0 60px 0;
+    padding: 25px 0 90px 0;
 }
 
 html, body {
@@ -56,7 +56,7 @@ html, body {
 img {
     width: 258px;
     height: 216px;
-    margin: 22px 0 25px 0;
+    margin: 10px 0 10px 0;
 }
 
 li a:hover {
@@ -77,3 +77,6 @@ h3 a:active {
     font-size: 125%;
 }
 
+h7 {
+    margin-left: 15px;
+}
