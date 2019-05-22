@@ -22,15 +22,14 @@ li a {
 }
 
 #img-setting {
-    padding: 15px 15px 15px 15px;
-    width: 275px;
-    height: 200px;
+    padding: 0 15px 15px 5px;
+    width: 315px;
+    height: 475px;
     background: white;
 }
 
 p {
     color: #9b9b9b;
-    margin-left: 15px;
     font-size: 16px;
     font-weight: 1;
     line-height: 2;
@@ -46,7 +45,7 @@ p {
     /* Negative indent footer by its height */
     margin: 0 auto -60px;
     /* Pad bottom by footer height */
-    padding: 25px 0 60px 0;
+    padding: 25px 0 90px 0;
 }
 
 html, body {
